@@ -1,9 +1,5 @@
 package com.cjrnew.personsapi.enums;
 
-import com.cjrnew.personsapi.entity.Phone;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-
 
 public enum PhoneType {
 
